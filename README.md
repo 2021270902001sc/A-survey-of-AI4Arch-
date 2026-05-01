@@ -2,6 +2,8 @@
 
 **Language:** English | [Chinese](README.zh-CN.md)
 
+![AI4Arch survey overview](fig/ai4arch-survey-overview.png)
+
 A curated literature library for **LLM/Foundation-Model/Agent/RAG methods that assist computer architecture, HLS, simulation, and system co-design**.
 
 ## Overview
@@ -46,6 +48,7 @@ Search cutoff: **2026-04-30**
 |-- README.md
 |-- README.zh-CN.md
 |-- build_literature_library.py
+|-- fig/
 `-- AI_for_Arch_LLM_Literature/
     |-- 01_LLM_Agents_for_DSE/
     |-- 02_LLM_for_Microarchitecture_Policy_Design/

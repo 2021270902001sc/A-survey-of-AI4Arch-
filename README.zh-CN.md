@@ -2,6 +2,8 @@
 
 **语言切换：** [English](README.md) | 中文
 
+![AI4Arch 文献调研总图](fig/ai4arch-survey-overview.png)
+
 本仓库整理 **LLM / 基础模型 / Agent / RAG 辅助计算机体系结构、HLS、仿真建模与系统协同优化** 方向的论文、索引表、分类综述和开放 PDF。
 
 ## 项目简介
@@ -46,6 +48,7 @@
 |-- README.md
 |-- README.zh-CN.md
 |-- build_literature_library.py
+|-- fig/
 `-- AI_for_Arch_LLM_Literature/
     |-- 01_LLM_Agents_for_DSE/
     |-- 02_LLM_for_Microarchitecture_Policy_Design/
